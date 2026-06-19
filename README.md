@@ -262,7 +262,7 @@ I work with e-commerce brands on analytics projects that go from raw transaction
 📧 anonopatience@gmail.com  
 🌐 [padataanalytics.com](https://padataanalytics.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/patience-anono-22ab06176/)  
-💻 [GitHub](https://github.com/anonopatience)
+💻 [GitHub]([https://github.com/anonopatience](https://github.com/PatienceAnono?tab=repositories)
 
 ---
 

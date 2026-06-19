@@ -259,11 +259,11 @@ Some product categories naturally drive repeat purchases (consumables, skincare,
 
 I work with e-commerce brands on analytics projects that go from raw transaction data to the business decisions that actually change outcomes.
 
-📧 hello@padataanalytics.com  
+📧 anonopatience@gmail.com  
 🌐 [padataanalytics.com](https://padataanalytics.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/patience-anono-22ab06176/)  
 💻 [GitHub](https://github.com/anonopatience)
 
 ---
 
-*Data generated synthetically to mirror Shopify's orders export format. Replace with a real Shopify CSV and the entire analysis runs unchanged.*
+
